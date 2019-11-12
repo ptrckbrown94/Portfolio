@@ -107,12 +107,43 @@ footer{
     height: 30px;    
 }
 
-.app-title{
+.app-hangman{
     position: relative;
     color: aqua;
-    top: -30px;
-    right: 0px;
+    top: -50px;
+    right: -55px;
     background-color: hotpink;
     width: fit-content;
-    padding: 0px 37px;
+}
+.app-rpg{
+    position: relative;
+    color: aqua;
+    top: -50px;
+    right: -55px;
+    background-color: hotpink;
+    width: fit-content;
+}
+.app-trivia{
+    position: relative;
+    color: aqua;
+    top: -50px;
+    right: -55px;
+    background-color: hotpink;
+    width: fit-content;
+}
+.app-rutgasswithwidgets{
+    position: relative;
+    color: aqua;
+    top: -50px;
+    right: -55px;
+    background-color: hotpink;
+    width: fit-content;
+}
+.app-rockpaperscissor{
+    position: relative;
+    color: aqua;
+    top: -50px;
+    right: -55px;
+    background-color: hotpink;
+    width: fit-content;
 }
