@@ -93,18 +93,14 @@ footer{
     height: 30px;    
 }
 
-.space{
-    height: 100px;
-}
+
 
 h2{
     color: hotpink;
     font-family: Arial, Helvetica, sans-serif;
-    display: inline-block
-}
-
-hr{
- color: aqua;
+    display: inline-block;
+    border-bottom: solid 1px aqua  
+    
 }
 
 
@@ -122,13 +118,16 @@ hr{
 .app-trivia{
     color: aqua;
     background-color: hotpink;
+
 }
 .app-rutgasswithwidgets{
     color: aqua;
     background-color: hotpink;
+
 }
 
 .app-rockpaperscissor{
     color: aqua;
     background-color: hotpink;
+
 }
