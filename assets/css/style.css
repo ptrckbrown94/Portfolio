@@ -1,25 +1,4 @@
-header{
-    font-family: Georgia, 'Times New Roman', Times, serif; 
-    background-color: #ffffff;
-    border-color: #cccccc;
-    color:#777777;
-    display: flex;
-    height: 70px;
-    justify-content: center;
-}
 
-.header_container{
-    width: 960px;
-    display: flex;
-    justify-content: space-between;
-    justify-self: center;
-}
-
-.content{
-    flex: 1 0 auto;
-    display: flex;
-    justify-content: center;   
-}
 
 html, body {
     height: 100%;
@@ -30,9 +9,6 @@ body{
     background-image: url(../images/beanstalk-dark.png);
 }
 
-
-
-
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
@@ -41,9 +17,6 @@ h1{
     justify-self: center;
 }
 
-h2{
-   
-}
 
 .name{
     font-family: Arial, Helvetica, sans-serif;
@@ -52,36 +25,10 @@ h2{
     text-align: center;
 }
 
-.box-2{
-    background-color: #ffffff;
-    border-color: #dddddd;
-    width: 960px;
-}
-
-.box{
-    background-color: #ffffff;
-    margin: 20px;
-    border-color: #dddddd;
-    width: 960px;
-    justify-self: center;
-}
-
 p{
    color: #777777; 
    font-family: Arial, Helvetica, sans-serif;
 }
-
-.btn {
-    font-family:Arial, Helvetica, sans-serif;
-    text-transform: uppercase;
-    border-radius: 4px;
-    border-color: #4aaaa5;
-    background-color:  #4aaaa5;
-    color: #777777;
-    cursor: pointer;
-    transition: all 0.3s ease 0.0s
-  }
-  
 
 footer{
     font-family: Arial, Helvetica, sans-serif;
@@ -93,16 +40,13 @@ footer{
     height: 30px;    
 }
 
-
-
 h2{
     color: hotpink;
     font-family: Arial, Helvetica, sans-serif;
     display: inline-block;
     border-bottom: solid 1px aqua  
-    
-}
 
+}
 
 .app-hangman{
    
